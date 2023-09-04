@@ -24,11 +24,7 @@
 .btns > div{
     border-top: 1px solid rgb(169, 110, 151);
     border-right: 1px solid rgb(227, 54, 233);
-}#display{
-    font-size: xx-large;
-    font-weight: bold;
 }
-
 .button{
     border: 1px solid rgb(191, 33, 203);
     line-height: 100px;
@@ -54,4 +50,9 @@
     border-radius: 50%;
     color: white;
     cursor: pointer;
+}
+
+#display{
+    font-size: xx-large;
+    font-weight: bold;
 }
